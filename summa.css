@@ -1,0 +1,12 @@
+body {
+  background: linear-gradient(120deg, #f6f9fc, #dbe9f4);
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  max-width: 500px;
+  background-color: white;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
